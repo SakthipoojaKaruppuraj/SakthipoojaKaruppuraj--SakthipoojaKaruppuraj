@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Sakthi Pooja Karuppuraj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain+%26+DeFi+Engineer;AI+Systems+Builder;Smart+Contract+Developer;Full+Stack+dApp+Engineer;Building+Secure+Scalable+Systems&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain+Engineer;AI+Systems+Builder;Smart+Contract+Developer;Full+Stack+dApp+Engineer;Designing+Secure+Scalable+Systems&center=true&width=520&height=45">
 </p>
 
 <p align="center">
@@ -10,65 +10,87 @@
 
 ---
 
-# 👩‍💻 About Me  
+# 👩‍💻 Engineering Profile  
 
-I’m a **Blockchain & AI Engineer** passionate about designing secure, scalable, and intelligent systems.  
+I’m a **Blockchain & AI Engineer** focused on building secure, scalable, and intelligent systems that solve real-world problems.  
 
-My work focuses on building **decentralized applications, smart contracts, and AI-powered platforms** that solve real-world problems with strong emphasis on **security, performance, and usability**.  
+My work sits at the intersection of **decentralized infrastructure, smart contract security, and AI-powered platforms**, where I design systems that are reliable, efficient, and user-focused.  
 
-I enjoy working across the full stack — from smart contract architecture to frontend interfaces — creating impactful Web3 products.  
-
----
-
-# 🎯 Core Expertise  
-
-✔ Smart Contract Development  
-✔ DeFi Protocol Design  
-✔ AI System Development  
-✔ Full Stack dApp Engineering  
-✔ Blockchain Security Practices  
+I enjoy thinking deeply about **architecture, performance, and system reliability**, and building products that deliver meaningful impact.  
 
 ---
 
-# 🏆 Key Projects  
+# 🧠 Engineering Philosophy  
+
+✔ Build secure systems by design, not as an afterthought  
+✔ Focus on scalability and performance from day one  
+✔ Keep architecture simple and maintainable  
+✔ Design with user experience in mind  
+✔ Continuously learn and iterate  
+
+---
+
+# 🎯 Areas of Expertise  
+
+🔹 Smart Contract Development & Security  
+🔹 DeFi Protocol Engineering  
+🔹 Full Stack dApp Development  
+🔹 AI System Development  
+🔹 System Architecture & Design  
+
+---
+
+# 🏗️ System Design Focus  
+
+I enjoy working on complex distributed systems including:  
+
+- Decentralized applications  
+- Blockchain infrastructure  
+- Smart contract architecture  
+- AI-powered backend systems  
+- Automation workflows  
+
+---
+
+# 🏆 Key Engineering Projects  
 
 ## 🔹 MAIMA — AI + Blockchain Automation Platform  
-Designed an intelligent automation system integrating AI with decentralized workflows.  
+Designed an intelligent automation platform integrating AI with decentralized workflows.  
 
-**Highlights:**  
-- Built scalable backend logic  
-- Integrated blockchain workflows  
-- Focused on automation reliability  
+**Engineering Focus:**  
+- Scalable backend logic  
+- Workflow reliability  
+- Blockchain integrations  
 
 ---
 
 ## 🔹 Fluxy — Scalable Web3 dApp  
-Developed a modern decentralized application exploring scalable architecture and user experience.  
+Built a modern decentralized application focusing on performance and architecture.  
 
-**Highlights:**  
+**Engineering Focus:**  
 - Full stack architecture  
 - Web3 integrations  
 - Performance optimization  
 
 ---
 
-## 🔹 Edu Certs — Blockchain Certificate Verification  
-Built a tamper-proof academic certificate verification platform using blockchain.  
+## 🔹 Edu Certs — Blockchain Credential Verification  
+Developed a blockchain-based certificate verification platform ensuring trustless validation.  
 
-**Highlights:**  
-- Smart contract-based verification  
-- Immutable credential storage  
-- Trustless validation system  
+**Engineering Focus:**  
+- Smart contract architecture  
+- Immutable data storage  
+- Verification logic  
 
 ---
 
-## 🔹 Secure Age Verification — AI System  
-Developed an AI-powered age prediction and liveness detection platform.  
+## 🔹 Secure Age Verification — AI Platform  
+Built an AI-powered age prediction and liveness detection system.  
 
-**Highlights:**  
-- Machine learning model integration  
-- Real-time detection pipeline  
-- Secure access control logic  
+**Engineering Focus:**  
+- ML model integration  
+- Real-time inference pipeline  
+- Secure access logic  
 
 ---
 
@@ -88,7 +110,7 @@ TensorFlow • OpenCV
 
 ---
 
-# 📊 GitHub Analytics  
+# 📊 Engineering Metrics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SakthipoojaKaruppuraj&show_icons=true&theme=tokyonight"/>
@@ -108,12 +130,18 @@ TensorFlow • OpenCV
 
 ---
 
-# 🧠 Currently Exploring  
+# 🌱 Currently Learning  
 
 🔹 Smart contract security auditing  
-🔹 Advanced DeFi architecture  
-🔹 Cross-chain infrastructure  
-🔹 AI agents for Web3  
+🔹 Advanced DeFi protocol design  
+🔹 Cross-chain systems  
+🔹 AI-driven automation  
+
+---
+
+# 🎯 Career Vision  
+
+My goal is to build impactful systems that push the boundaries of **decentralized technology and intelligent software**, contributing to the future of secure digital infrastructure.  
 
 ---
 
@@ -128,5 +156,5 @@ sakthipooja4047@gmail.com
 ---
 
 <p align="center">
-⭐️ Building the future with Blockchain & AI ⭐️
+⭐ Building secure decentralized systems powered by AI ⭐
 </p>
