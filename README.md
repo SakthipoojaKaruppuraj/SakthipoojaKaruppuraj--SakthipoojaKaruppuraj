@@ -17,7 +17,7 @@
 <!-- Social Links with Hover Effects -->
 <p>
   <a href="https://www.linkedin.com/in/sakthi-pooja-540461380">
-    <img src="https://img.shields.io/badge/LinkedIn-dff929?style=for-the-badge&logo=linkedin&logoColor=000000&logoWidth=20" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1"/>
+    <img src="https://img.shields.io/badge/LinkedIn-dff929?style=for-the-badge&logo=linkedin&logoColor=000000" />
   </a>
   <a href="mailto:sakthipooja4047@gmail.com">
     <img src="https://img.shields.io/badge/Email-dff929?style=for-the-badge&logo=gmail&logoColor=000000"/>
@@ -305,6 +305,7 @@
 </div>
 
 </div>
+
 ---
 
 <!-- Enhanced Tech Stack Section with Components -->
@@ -327,7 +328,7 @@
   <!-- Skill Card 1 - Solidity -->
   <div style="background: #ffffff30; backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 2px solid #00000020;">
     <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
-      <img src="https://img.icons8.com/?size=100&id=44442&format=png&color=000000" width="40" style="background: #000000; padding: 8px; border-radius: 12px;">
+      <div style="background: #000000; width: 40px; height: 40px; border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #f8ffc9; font-weight: bold; font-size: 1.2em;">S</div>
       <div style="text-align: left;">
         <h3 style="color:#000000; margin: 0;">Solidity</h3>
         <p style="color:#000000; margin: 0; font-size: 0.9em;">Smart Contracts</p>
@@ -351,7 +352,7 @@
   <!-- Skill Card 2 - Python -->
   <div style="background: #ffffff30; backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 2px solid #00000020;">
     <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
-      <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="40" style="background: #000000; padding: 8px; border-radius: 12px;">
+      <div style="background: #000000; width: 40px; height: 40px; border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #f8ffc9; font-weight: bold; font-size: 1.2em;">Py</div>
       <div style="text-align: left;">
         <h3 style="color:#000000; margin: 0;">Python</h3>
         <p style="color:#000000; margin: 0; font-size: 0.9em;">AI/ML, Backend</p>
@@ -375,7 +376,7 @@
   <!-- Skill Card 3 - React -->
   <div style="background: #ffffff30; backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 2px solid #00000020;">
     <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
-      <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="40" style="background: #000000; padding: 8px; border-radius: 12px;">
+      <div style="background: #000000; width: 40px; height: 40px; border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #f8ffc9; font-weight: bold; font-size: 1.2em;">R</div>
       <div style="text-align: left;">
         <h3 style="color:#000000; margin: 0;">React</h3>
         <p style="color:#000000; margin: 0; font-size: 0.9em;">Frontend, dApps</p>
@@ -396,13 +397,13 @@
     </div>
   </div>
 
-  <!-- Skill Card 4 - Ethereum -->
+  <!-- Skill Card 4 - JavaScript -->
   <div style="background: #ffffff30; backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 2px solid #00000020;">
     <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
-      <img src="https://img.icons8.com/?size=100&id=44442&format=png&color=000000" width="40" style="background: #000000; padding: 8px; border-radius: 12px;">
+      <div style="background: #000000; width: 40px; height: 40px; border-radius: 12px; display: flex; align-items: center; justify-content: center; color: #f8ffc9; font-weight: bold; font-size: 1.2em;">JS</div>
       <div style="text-align: left;">
-        <h3 style="color:#000000; margin: 0;">Ethereum</h3>
-        <p style="color:#000000; margin: 0; font-size: 0.9em;">EVM, L2 Solutions</p>
+        <h3 style="color:#000000; margin: 0;">JavaScript</h3>
+        <p style="color:#000000; margin: 0; font-size: 0.9em;">Web3, Frontend</p>
       </div>
     </div>
     <div style="margin-bottom: 10px;">
@@ -411,129 +412,4 @@
         <span>92%</span>
       </div>
       <div style="background: #00000020; height: 8px; border-radius: 10px;">
-        <div style="background: #000000; width: 92%; height: 100%; border-radius: 10px;"></div>
-      </div>
-    </div>
-    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-      <span style="background: #000000; color: #f8ffc9; padding: 2px 8px; border-radius: 12px; font-size: 0.7em;">4+ years</span>
-      <span style="background: #000000; color: #f8ffc9; padding: 2px 8px; border-radius: 12px; font-size: 0.7em;">Expert</span>
-    </div>
-  </div>
-</div>
-
-<!-- Quick Stats Component -->
-<div style="display: flex; justify-content: center; gap: 30px; margin-top: 30px; flex-wrap: wrap;">
-  <div style="background: #000000; color: #f8ffc9; padding: 15px 25px; border-radius: 15px; min-width: 150px;">
-    <div style="font-size: 2em; font-weight: bold;">15+</div>
-    <div>Technologies</div>
-  </div>
-  <div style="background: #000000; color: #f8ffc9; padding: 15px 25px; border-radius: 15px; min-width: 150px;">
-    <div style="font-size: 2em; font-weight: bold;">8</div>
-    <div>Blockchains</div>
-  </div>
-  <div style="background: #000000; color: #f8ffc9; padding: 15px 25px; border-radius: 15px; min-width: 150px;">
-    <div style="font-size: 2em; font-weight: bold;">5+</div>
-    <div>Years Coding</div>
-  </div>
-</div>
-
-<!-- Technology Cloud Component -->
-<div style="margin-top: 30px;">
-  <h3 style="color:#000000;">Technology Cloud</h3>
-  <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-    <span style="font-size: 1.8em; font-weight: bold; color: #000000;">Solidity</span>
-    <span style="font-size: 1.2em; color: #000000;">Python</span>
-    <span style="font-size: 2em; font-weight: bold; color: #000000;">JavaScript</span>
-    <span style="font-size: 1.4em; color: #000000;">TypeScript</span>
-    <span style="font-size: 1.6em; font-weight: bold; color: #000000;">React</span>
-    <span style="font-size: 1.1em; color: #000000;">Node.js</span>
-    <span style="font-size: 1.9em; font-weight: bold; color: #000000;">Hardhat</span>
-    <span style="font-size: 1.3em; color: #000000;">Foundry</span>
-    <span style="font-size: 1.7em; font-weight: bold; color: #000000;">Web3.js</span>
-    <span style="font-size: 1.5em; color: #000000;">Ethers.js</span>
-    <span style="font-size: 1.8em; font-weight: bold; color: #000000;">IPFS</span>
-    <span style="font-size: 1.2em; color: #000000;">Chainlink</span>
-  </div>
-</div>
-
-</div>
----
-
-<!-- GitHub Stats with Animation -->
-<div align="center" style="background: linear-gradient(135deg, #f8ffc9 0%, #f0f7b0 100%); padding: 25px; border-radius: 20px; border: 2px solid #00000020; margin-top: 20px;">
-
-<h2 style="color:#000000; font-size: 2em;">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakthipoojaKaruppuraj&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=f8ffc9&hide_border=true&include_all_commits=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakthipoojaKaruppuraj&background=f8ffc9&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthipoojaKaruppuraj&layout=compact&title_color=000000&text_color=000000&bg_color=f8ffc9&hide_border=true&langs_count=8"/>
-</p>
-
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakthipoojaKaruppuraj&bg_color=f8ffc9&color=000000&line=000000&point=000000&area=true&area_color=dff929&hide_border=true"/>
-</p>
-
-</div>
-
----
-
-<!-- Latest Blog Posts / Activity -->
-<div align="center" style="background: linear-gradient(135deg, #f8ffc9 0%, #f0f7b0 100%); padding: 25px; border-radius: 20px; border: 2px solid #00000020; margin-top: 20px;">
-
-<h2 style="color:#000000; font-size: 2em;">📰 Latest Updates</h2>
-
-<div align="left" style="margin-left: 20px;">
-
-<p>🔥 <strong>Working on:</strong> Advanced AMM with AI-powered routing</p>
-<p>📚 <strong>Learning:</strong> Zero-Knowledge Proofs & Layer 2 Scaling</p>
-<p>🎯 <strong>Goal for 2024:</strong> Launch production DeFi protocol</p>
-<p>💬 <strong>Ask me about:</strong> Smart contract security, DeFi strategies, AI in blockchain</p>
-
-</div>
-
-</div>
-
----
-
-<!-- Support/Contact Section -->
-<div align="center" style="margin-top: 20px; padding: 20px;">
-
-<h3 style="color:#000000;">🤝 Let's Build Something Amazing Together</h3>
-
-<p>
-  <a href="https://www.buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-dff929?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000"/>
-  </a>
-  <a href="https://discord.gg/yourdiscord">
-    <img src="https://img.shields.io/badge/Discord-dff929?style=for-the-badge&logo=discord&logoColor=000000"/>
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-dff929?style=for-the-badge&logo=twitter&logoColor=000000"/>
-  </a>
-</p>
-
-<p style="color:#000000;">
-  ⚡ <i>"Code is poetry, blockchain is the canvas"</i>
-</p>
-
-<p style="color:#000000;">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/> 
-  <strong>Always open to collaboration and innovative ideas!</strong>
-</p>
-
-</div>
-
----
-
-<!-- Footer -->
-<div align="center" style="margin-top: 10px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=dff929&height=100&section=footer"/>
-</div>
+        <div style="background: #000000; width: 92%; height: 100%; border-radius:
