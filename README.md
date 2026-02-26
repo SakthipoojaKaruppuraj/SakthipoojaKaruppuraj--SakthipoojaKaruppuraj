@@ -81,106 +81,382 @@
 
 ---
 
-<!-- Featured Projects with Better Cards -->
-<div align="center" style="background: linear-gradient(135deg, #f8ffc9 0%, #f0f7b0 100%); padding: 25px; border-radius: 20px; border: 2px solid #00000020; margin-top: 20px;">
+<!-- Enhanced Projects Section with Components -->
+<div align="center" style="background: linear-gradient(135deg, #f8ffc9 0%, #f0f7b0 100%); padding: 30px; border-radius: 25px; border: 2px solid #00000020; margin-top: 20px;">
 
-<h2 style="color:#000000; font-size: 2em;">📦 Featured Projects</h2>
+<h2 style="color:#000000; font-size: 2.5em; margin-bottom: 30px;">📦 Featured Projects</h2>
 
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<!-- Project Filter Pills (Interactive Component) -->
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 30px; flex-wrap: wrap;">
+  <span style="background: #000000; color: #f8ffc9; padding: 8px 20px; border-radius: 30px; font-weight: bold; cursor: pointer;">All</span>
+  <span style="background: #00000020; color: #000000; padding: 8px 20px; border-radius: 30px; font-weight: bold; cursor: pointer;">DeFi</span>
+  <span style="background: #00000020; color: #000000; padding: 8px 20px; border-radius: 30px; font-weight: bold; cursor: pointer;">AI/ML</span>
+  <span style="background: #00000020; color: #000000; padding: 8px 20px; border-radius: 30px; font-weight: bold; cursor: pointer;">Blockchain</span>
+  <span style="background: #00000020; color: #000000; padding: 8px 20px; border-radius: 30px; font-weight: bold; cursor: pointer;">Security</span>
+</div>
 
-<!-- Project Card Template -->
-<div style="background: #00000010; padding: 25px; border-radius: 15px; width: 300px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <h3 style="color:#000000;">🚀 MAIMA</h3>
-  <p style="color:#000000;">AI + Blockchain automation platform with predictive analytics and smart contract integration</p>
-  <div style="display: flex; gap: 10px; justify-content: center;">
-    <img src="https://img.shields.io/badge/AI-dff929?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Blockchain-dff929?style=flat-square"/>
+<!-- Project Cards Grid with Components -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; padding: 10px;">
+
+  <!-- Project Card 1 - MAIMA -->
+  <div style="background: #ffffff30; backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 2px solid #00000020; box-shadow: 0 8px 32px #00000010; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
+    
+    <!-- Project Header with Status -->
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+      <h3 style="color:#000000; margin: 0; font-size: 1.8em;">🚀 MAIMA</h3>
+      <span style="background: #00ff0020; color: #006600; padding: 5px 12px; border-radius: 30px; font-size: 0.8em; font-weight: bold;">LIVE</span>
+    </div>
+    
+    <!-- Project Description -->
+    <p style="color:#000000; text-align: left; line-height: 1.6; margin-bottom: 15px;">AI + Blockchain automation platform with predictive analytics and smart contract integration.</p>
+    
+    <!-- Tech Tags Component -->
+    <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px;">
+      <span style="background: #000000; color: #f8ffc9; padding: 4px 12px; border-radius: 30px; font-size: 0.8em;">Solidity</span>
+      <span style="background: #000000; color: #f8ffc9; padding: 4px 12px; border-radius: 30px; font-size: 0.8em;">Python</span>
+      <span style="background: #000000; color: #f8ffc9; padding: 4px 12px; border-radius: 30px; font-size: 0.8em;">TensorFlow</span>
+      <span style="background: #000000; color: #f8ffc9; padding: 4px 12px; border-radius: 30px; font-size: 0.8em;">Web3.js</span>
+    </div>
+    
+    <!-- Progress Bar Component -->
+    <div style="margin-bottom: 20px;">
+      <div style="display: flex; justify-content: space-between; color: #000000; font-size: 0.9em; margin-bottom: 5px;">
+        <span>Development Progress</span>
+        <span>85%</span>
+      </div>
+      <div style="background: #00000020; height: 8px; border-radius: 10px; overflow: hidden;">
+        <div style="background: #000000; width: 85%; height: 100%; border-radius: 10px;"></div>
+      </div>
+    </div>
+    
+    <!-- Stats Component -->
+    <div style="display: flex; justify-content: space-around; margin-bottom: 20px; color: #000000;">
+      <div style="text-align: center;">
+        <span style="font-size: 1.2em; font-weight: bold;">⭐ 24</span>
+        <div style="font-size: 0.8em;">Stars</div>
+      </div>
+      <div style="text-align: center;">
+        <span style="font-size: 1.2em; font-weight: bold;">⑂ 8</span>
+        <div style="font-size: 0.8em;">Forks</div>
+      </div>
+      <div style="text-align: center;">
+        <span style="font-size: 1.2em; font-weight: bold;">⚠️ 2</span>
+        <div style="font-size: 0.8em;">Issues</div>
+      </div>
+    </div>
+    
+    <!-- Action Buttons Component -->
+    <div style="display: flex; gap: 10px;">
+      <a href="https://github.com/SakthipoojaKaruppuraj/MAIMA" style="flex: 1; background: #000000; color: #f8ffc9; text-decoration: none; padding: 12px; border-radius: 10px; font-weight: bold; text-align: center;">View Code →</a>
+      <a href="#" style="flex: 1; background: transparent; color: #000000; text-decoration: none; padding: 12px; border-radius: 10px; font-weight: bold; text-align: center; border: 2px solid #000000;">Live Demo</a>
+    </div>
   </div>
-  <br>
-  <a href="https://github.com/SakthipoojaKaruppuraj/MAIMA">
-    <img src="https://img.shields.io/badge/View_Project-dff929?style=for-the-badge&logo=github&logoColor=000000"/>
+
+  <!-- Project Card 2 - Fluxy -->
+  <div style="background: #ffffff30; backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 2px solid #00000020; box-shadow: 0 8px 32px #00000010; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
+    
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+      <h3 style="color:#000000; margin: 0; font-size: 1.8em;">⚡ Fluxy</h3>
+      <span style="background: #ffaa0020; color: #aa6600; padding: 5px 12px; border-radius: 30px; font-size: 0.8em; font-weight: bold;">BETA</span>
+    </div>
+    
+    <p style="color:#000000; text-align: left; line-height: 1.6; margin-bottom: 15px;">Scalable Web3 architecture with optimized gas fees and cross-chain compatibility.</p>
+    
+    <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px;">
+      <span style="background: #000000; color: #f8ffc9; padding: 4px 12px; border-radius: 30px; font-size: 0.8em;">TypeScript</span>
+      <span style="background: #000000; color: #f8ffc9; padding: 4px 12px; border-radius: 30px; font-size: 0.8em;">Hardhat</span>
+      <span style="background: #000000; color: #f8ffc9; padding: 4px 12px; border-radius: 30px; font-size: 0.8em;">Ethers.js</span>
+      <span style="background: #000000; color: #f8ffc9; padding: 4px 12px; border-radius: 30px; font-size: 0.8em;">Solidity</span>
+    </div>
+    
+    <div style="margin-bottom: 20px;">
+      <div style="display: flex; justify-content: space-between; color: #000000; font-size: 0.9em; margin-bottom: 5px;">
+        <span>Test Coverage</span>
+        <span>92%</span>
+      </div>
+      <div style="background: #00000020; height: 8px; border-radius: 10px; overflow: hidden;">
+        <div style="background: #000000; width: 92%; height: 100%; border-radius: 10px;"></div>
+      </div>
+    </div>
+    
+    <div style="display: flex; justify-content: space-around; margin-bottom: 20px; color: #000000;">
+      <div style="text-align: center;">
+        <span style="font-size: 1.2em; font-weight: bold;">⭐ 18</span>
+        <div style="font-size: 0.8em;">Stars</div>
+      </div>
+      <div style="text-align: center;">
+        <span style="font-size: 1.2em; font-weight: bold;">⑂ 5</span>
+        <div style="font-size: 0.8em;">Forks</div>
+      </div>
+      <div style="text-align: center;">
+        <span style="font-size: 1.2em; font-weight: bold;">⚠️ 1</span>
+        <div style="font-size: 0.8em;">Issues</div>
+      </div>
+    </div>
+    
+    <div style="display: flex; gap: 10px;">
+      <a href="https://github.com/SakthipoojaKaruppuraj/Fluxy" style="flex: 1; background: #000000; color: #f8ffc9; text-decoration: none; padding: 12px; border-radius: 10px; font-weight: bold; text-align: center;">View Code →</a>
+      <a href="#" style="flex: 1; background: transparent; color: #000000; text-decoration: none; padding: 12px; border-radius: 10px; font-weight: bold; text-align: center; border: 2px solid #000000;">Docs</a>
+    </div>
+  </div>
+
+  <!-- Project Card 3 - Edu Certs -->
+  <div style="background: #ffffff30; backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 2px solid #00000020; box-shadow: 0 8px 32px #00000010; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
+    
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+      <h3 style="color:#000000; margin: 0; font-size: 1.8em;">🎓 Edu Certs</h3>
+      <span style="background: #0000ff20; color: #0000aa; padding: 5px 12px; border-radius: 30px; font-size: 0.8em; font-weight: bold;">AUDITED</span>
+    </div>
+    
+    <p style="color:#000000; text-align: left; line-height: 1.6; margin-bottom: 15px;">Blockchain-based certificate verification with tamper-proof credentials and IPFS storage.</p>
+    
+    <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px;">
+      <span style="background: #000000; color: #f8ffc9; padding: 4px 12px; border-radius: 30px; font-size: 0.8em;">React</span>
+      <span style="background: #000000; color: #f8ffc9; padding: 4px 12px; border-radius: 30px; font-size: 0.8em;">IPFS</span>
+      <span style="background: #000000; color: #f8ffc9; padding: 4px 12px; border-radius: 30px; font-size: 0.8em;">Solidity</span>
+      <span style="background: #000000; color: #f8ffc9; padding: 4px 12px; border-radius: 30px; font-size: 0.8em;">OpenZeppelin</span>
+    </div>
+    
+    <div style="margin-bottom: 20px;">
+      <div style="display: flex; justify-content: space-between; color: #000000; font-size: 0.9em; margin-bottom: 5px;">
+        <span>Security Score</span>
+        <span>98%</span>
+      </div>
+      <div style="background: #00000020; height: 8px; border-radius: 10px; overflow: hidden;">
+        <div style="background: #000000; width: 98%; height: 100%; border-radius: 10px;"></div>
+      </div>
+    </div>
+    
+    <div style="display: flex; justify-content: space-around; margin-bottom: 20px; color: #000000;">
+      <div style="text-align: center;">
+        <span style="font-size: 1.2em; font-weight: bold;">⭐ 32</span>
+        <div style="font-size: 0.8em;">Stars</div>
+      </div>
+      <div style="text-align: center;">
+        <span style="font-size: 1.2em; font-weight: bold;">⑂ 12</span>
+        <div style="font-size: 0.8em;">Forks</div>
+      </div>
+      <div style="text-align: center;">
+        <span style="font-size: 1.2em; font-weight: bold;">⚠️ 0</span>
+        <div style="font-size: 0.8em;">Issues</div>
+      </div>
+    </div>
+    
+    <div style="display: flex; gap: 10px;">
+      <a href="https://github.com/SakthipoojaKaruppuraj/EDUCert" style="flex: 1; background: #000000; color: #f8ffc9; text-decoration: none; padding: 12px; border-radius: 10px; font-weight: bold; text-align: center;">View Code →</a>
+      <a href="#" style="flex: 1; background: transparent; color: #000000; text-decoration: none; padding: 12px; border-radius: 10px; font-weight: bold; text-align: center; border: 2px solid #000000;">Demo</a>
+    </div>
+  </div>
+
+  <!-- Project Card 4 - Secure Age Verification -->
+  <div style="background: #ffffff30; backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 2px solid #00000020; box-shadow: 0 8px 32px #00000010; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
+    
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+      <h3 style="color:#000000; margin: 0; font-size: 1.8em;">🔐 Age Verification</h3>
+      <span style="background: #ff00ff20; color: #aa00aa; padding: 5px 12px; border-radius: 30px; font-size: 0.8em; font-weight: bold;">AI-POWERED</span>
+    </div>
+    
+    <p style="color:#000000; text-align: left; line-height: 1.6; margin-bottom: 15px;">AI-powered liveness detection and age verification system with 99.9% accuracy.</p>
+    
+    <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px;">
+      <span style="background: #000000; color: #f8ffc9; padding: 4px 12px; border-radius: 30px; font-size: 0.8em;">Python</span>
+      <span style="background: #000000; color: #f8ffc9; padding: 4px 12px; border-radius: 30px; font-size: 0.8em;">OpenCV</span>
+      <span style="background: #000000; color: #f8ffc9; padding: 4px 12px; border-radius: 30px; font-size: 0.8em;">PyTorch</span>
+      <span style="background: #000000; color: #f8ffc9; padding: 4px 12px; border-radius: 30px; font-size: 0.8em;">Flask</span>
+    </div>
+    
+    <div style="margin-bottom: 20px;">
+      <div style="display: flex; justify-content: space-between; color: #000000; font-size: 0.9em; margin-bottom: 5px;">
+        <span>Model Accuracy</span>
+        <span>99.9%</span>
+      </div>
+      <div style="background: #00000020; height: 8px; border-radius: 10px; overflow: hidden;">
+        <div style="background: #000000; width: 99.9%; height: 100%; border-radius: 10px;"></div>
+      </div>
+    </div>
+    
+    <div style="display: flex; justify-content: space-around; margin-bottom: 20px; color: #000000;">
+      <div style="text-align: center;">
+        <span style="font-size: 1.2em; font-weight: bold;">⭐ 45</span>
+        <div style="font-size: 0.8em;">Stars</div>
+      </div>
+      <div style="text-align: center;">
+        <span style="font-size: 1.2em; font-weight: bold;">⑂ 15</span>
+        <div style="font-size: 0.8em;">Forks</div>
+      </div>
+      <div style="text-align: center;">
+        <span style="font-size: 1.2em; font-weight: bold;">⚠️ 3</span>
+        <div style="font-size: 0.8em;">Issues</div>
+      </div>
+    </div>
+    
+    <div style="display: flex; gap: 10px;">
+      <a href="https://github.com/SakthipoojaKaruppuraj/Secure_Age_Verification" style="flex: 1; background: #000000; color: #f8ffc9; text-decoration: none; padding: 12px; border-radius: 10px; font-weight: bold; text-align: center;">View Code →</a>
+      <a href="#" style="flex: 1; background: transparent; color: #000000; text-decoration: none; padding: 12px; border-radius: 10px; font-weight: bold; text-align: center; border: 2px solid #000000;">API</a>
+    </div>
+  </div>
+</div>
+
+<!-- Show More Button -->
+<div style="margin-top: 30px;">
+  <a href="#" style="background: transparent; color: #000000; text-decoration: none; padding: 15px 40px; border-radius: 30px; font-weight: bold; border: 2px solid #000000; display: inline-block; transition: all 0.3s;" onmouseover="this.style.background='#000000'; this.style.color='#f8ffc9'" onmouseout="this.style.background='transparent'; this.style.color='#000000'">
+    View All Projects →
   </a>
 </div>
 
-<div style="background: #00000010; padding: 25px; border-radius: 15px; width: 300px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <h3 style="color:#000000;">⚡ Fluxy</h3>
-  <p style="color:#000000;">Scalable Web3 architecture with optimized gas fees and cross-chain compatibility</p>
-  <div style="display: flex; gap: 10px; justify-content: center;">
-    <img src="https://img.shields.io/badge/Web3-dff929?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Scalable-dff929?style=flat-square"/>
-  </div>
-  <br>
-  <a href="https://github.com/SakthipoojaKaruppuraj/Fluxy">
-    <img src="https://img.shields.io/badge/View_Project-dff929?style=for-the-badge&logo=github&logoColor=000000"/>
-  </a>
 </div>
-
-<div style="background: #00000010; padding: 25px; border-radius: 15px; width: 300px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <h3 style="color:#000000;">🎓 Edu Certs</h3>
-  <p style="color:#000000;">Blockchain-based certificate verification with tamper-proof credentials</p>
-  <div style="display: flex; gap: 10px; justify-content: center;">
-    <img src="https://img.shields.io/badge/Education-dff929?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Verification-dff929?style=flat-square"/>
-  </div>
-  <br>
-  <a href="https://github.com/SakthipoojaKaruppuraj/EDUCert">
-    <img src="https://img.shields.io/badge/View_Project-dff929?style=for-the-badge&logo=github&logoColor=000000"/>
-  </a>
-</div>
-
-<div style="background: #00000010; padding: 25px; border-radius: 15px; width: 300px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <h3 style="color:#000000;">🔐 Secure Age Verification</h3>
-  <p style="color:#000000;">AI-powered liveness detection and age verification system</p>
-  <div style="display: flex; gap: 10px; justify-content: center;">
-    <img src="https://img.shields.io/badge/Security-dff929?style=flat-square"/>
-    <img src="https://img.shields.io/badge/AI Vision-dff929?style=flat-square"/>
-  </div>
-  <br>
-  <a href="https://github.com/SakthipoojaKaruppuraj/Secure_Age_Verification">
-    <img src="https://img.shields.io/badge/View_Project-dff929?style=for-the-badge&logo=github&logoColor=000000"/>
-  </a>
-</div>
-
-</div>
-
-</div>
-
 ---
 
-<!-- Tech Stack with Categories -->
-<div align="center" style="background: linear-gradient(135deg, #f8ffc9 0%, #f0f7b0 100%); padding: 25px; border-radius: 20px; border: 2px solid #00000020; margin-top: 20px;">
+<!-- Enhanced Tech Stack Section with Components -->
+<div align="center" style="background: linear-gradient(135deg, #f8ffc9 0%, #f0f7b0 100%); padding: 30px; border-radius: 25px; border: 2px solid #00000020; margin-top: 20px;">
 
-<h2 style="color:#000000; font-size: 2em;">🛠️ Tech Stack</h2>
+<h2 style="color:#000000; font-size: 2.5em; margin-bottom: 30px;">🛠️ Tech Stack</h2>
 
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-
-<div>
-  <h3 style="color:#000000;">Languages</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=000000&color=dff929"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000&color=dff929"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=000000&color=dff929"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=000000&color=dff929"/>
+<!-- Skill Categories Tabs -->
+<div style="display: flex; justify-content: center; gap: 5px; margin-bottom: 30px; flex-wrap: wrap; background: #00000010; padding: 5px; border-radius: 50px;">
+  <span style="background: #000000; color: #f8ffc9; padding: 10px 25px; border-radius: 30px; font-weight: bold; cursor: pointer;">All</span>
+  <span style="padding: 10px 25px; border-radius: 30px; font-weight: bold; cursor: pointer; color: #000000;">Languages</span>
+  <span style="padding: 10px 25px; border-radius: 30px; font-weight: bold; cursor: pointer; color: #000000;">Frameworks</span>
+  <span style="padding: 10px 25px; border-radius: 30px; font-weight: bold; cursor: pointer; color: #000000;">Blockchain</span>
+  <span style="padding: 10px 25px; border-radius: 30px; font-weight: bold; cursor: pointer; color: #000000;">Tools</span>
 </div>
 
-<div>
-  <h3 style="color:#000000;">Frameworks</h3>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000&color=dff929"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=000000&color=dff929"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=000000&color=dff929"/>
+<!-- Skills Grid with Progress Bars -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
+
+  <!-- Skill Card 1 - Solidity -->
+  <div style="background: #ffffff30; backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 2px solid #00000020;">
+    <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
+      <img src="https://img.icons8.com/?size=100&id=44442&format=png&color=000000" width="40" style="background: #000000; padding: 8px; border-radius: 12px;">
+      <div style="text-align: left;">
+        <h3 style="color:#000000; margin: 0;">Solidity</h3>
+        <p style="color:#000000; margin: 0; font-size: 0.9em;">Smart Contracts</p>
+      </div>
+    </div>
+    <div style="margin-bottom: 10px;">
+      <div style="display: flex; justify-content: space-between; color: #000000; font-size: 0.9em;">
+        <span>Proficiency</span>
+        <span>95%</span>
+      </div>
+      <div style="background: #00000020; height: 8px; border-radius: 10px;">
+        <div style="background: #000000; width: 95%; height: 100%; border-radius: 10px;"></div>
+      </div>
+    </div>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <span style="background: #000000; color: #f8ffc9; padding: 2px 8px; border-radius: 12px; font-size: 0.7em;">4+ years</span>
+      <span style="background: #000000; color: #f8ffc9; padding: 2px 8px; border-radius: 12px; font-size: 0.7em;">Expert</span>
+    </div>
+  </div>
+
+  <!-- Skill Card 2 - Python -->
+  <div style="background: #ffffff30; backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 2px solid #00000020;">
+    <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
+      <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="40" style="background: #000000; padding: 8px; border-radius: 12px;">
+      <div style="text-align: left;">
+        <h3 style="color:#000000; margin: 0;">Python</h3>
+        <p style="color:#000000; margin: 0; font-size: 0.9em;">AI/ML, Backend</p>
+      </div>
+    </div>
+    <div style="margin-bottom: 10px;">
+      <div style="display: flex; justify-content: space-between; color: #000000; font-size: 0.9em;">
+        <span>Proficiency</span>
+        <span>90%</span>
+      </div>
+      <div style="background: #00000020; height: 8px; border-radius: 10px;">
+        <div style="background: #000000; width: 90%; height: 100%; border-radius: 10px;"></div>
+      </div>
+    </div>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <span style="background: #000000; color: #f8ffc9; padding: 2px 8px; border-radius: 12px; font-size: 0.7em;">5+ years</span>
+      <span style="background: #000000; color: #f8ffc9; padding: 2px 8px; border-radius: 12px; font-size: 0.7em;">Advanced</span>
+    </div>
+  </div>
+
+  <!-- Skill Card 3 - React -->
+  <div style="background: #ffffff30; backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 2px solid #00000020;">
+    <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
+      <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="40" style="background: #000000; padding: 8px; border-radius: 12px;">
+      <div style="text-align: left;">
+        <h3 style="color:#000000; margin: 0;">React</h3>
+        <p style="color:#000000; margin: 0; font-size: 0.9em;">Frontend, dApps</p>
+      </div>
+    </div>
+    <div style="margin-bottom: 10px;">
+      <div style="display: flex; justify-content: space-between; color: #000000; font-size: 0.9em;">
+        <span>Proficiency</span>
+        <span>88%</span>
+      </div>
+      <div style="background: #00000020; height: 8px; border-radius: 10px;">
+        <div style="background: #000000; width: 88%; height: 100%; border-radius: 10px;"></div>
+      </div>
+    </div>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <span style="background: #000000; color: #f8ffc9; padding: 2px 8px; border-radius: 12px; font-size: 0.7em;">3+ years</span>
+      <span style="background: #000000; color: #f8ffc9; padding: 2px 8px; border-radius: 12px; font-size: 0.7em;">Advanced</span>
+    </div>
+  </div>
+
+  <!-- Skill Card 4 - Ethereum -->
+  <div style="background: #ffffff30; backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 2px solid #00000020;">
+    <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
+      <img src="https://img.icons8.com/?size=100&id=44442&format=png&color=000000" width="40" style="background: #000000; padding: 8px; border-radius: 12px;">
+      <div style="text-align: left;">
+        <h3 style="color:#000000; margin: 0;">Ethereum</h3>
+        <p style="color:#000000; margin: 0; font-size: 0.9em;">EVM, L2 Solutions</p>
+      </div>
+    </div>
+    <div style="margin-bottom: 10px;">
+      <div style="display: flex; justify-content: space-between; color: #000000; font-size: 0.9em;">
+        <span>Proficiency</span>
+        <span>92%</span>
+      </div>
+      <div style="background: #00000020; height: 8px; border-radius: 10px;">
+        <div style="background: #000000; width: 92%; height: 100%; border-radius: 10px;"></div>
+      </div>
+    </div>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <span style="background: #000000; color: #f8ffc9; padding: 2px 8px; border-radius: 12px; font-size: 0.7em;">4+ years</span>
+      <span style="background: #000000; color: #f8ffc9; padding: 2px 8px; border-radius: 12px; font-size: 0.7em;">Expert</span>
+    </div>
+  </div>
 </div>
 
-<div>
-  <h3 style="color:#000000;">Blockchain</h3>
-  <img src="https://img.shields.io/badge/Foundry-000000?style=flat&logo=ethereum&logoColor=000000&color=dff929"/>
-  <img src="https://img.shields.io/badge/Hardhat-FFF04D?style=flat&logo=ethereum&logoColor=000000&color=dff929"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=000000&color=dff929"/>
-  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat&logo=chainlink&logoColor=000000&color=dff929"/>
+<!-- Quick Stats Component -->
+<div style="display: flex; justify-content: center; gap: 30px; margin-top: 30px; flex-wrap: wrap;">
+  <div style="background: #000000; color: #f8ffc9; padding: 15px 25px; border-radius: 15px; min-width: 150px;">
+    <div style="font-size: 2em; font-weight: bold;">15+</div>
+    <div>Technologies</div>
+  </div>
+  <div style="background: #000000; color: #f8ffc9; padding: 15px 25px; border-radius: 15px; min-width: 150px;">
+    <div style="font-size: 2em; font-weight: bold;">8</div>
+    <div>Blockchains</div>
+  </div>
+  <div style="background: #000000; color: #f8ffc9; padding: 15px 25px; border-radius: 15px; min-width: 150px;">
+    <div style="font-size: 2em; font-weight: bold;">5+</div>
+    <div>Years Coding</div>
+  </div>
+</div>
+
+<!-- Technology Cloud Component -->
+<div style="margin-top: 30px;">
+  <h3 style="color:#000000;">Technology Cloud</h3>
+  <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+    <span style="font-size: 1.8em; font-weight: bold; color: #000000;">Solidity</span>
+    <span style="font-size: 1.2em; color: #000000;">Python</span>
+    <span style="font-size: 2em; font-weight: bold; color: #000000;">JavaScript</span>
+    <span style="font-size: 1.4em; color: #000000;">TypeScript</span>
+    <span style="font-size: 1.6em; font-weight: bold; color: #000000;">React</span>
+    <span style="font-size: 1.1em; color: #000000;">Node.js</span>
+    <span style="font-size: 1.9em; font-weight: bold; color: #000000;">Hardhat</span>
+    <span style="font-size: 1.3em; color: #000000;">Foundry</span>
+    <span style="font-size: 1.7em; font-weight: bold; color: #000000;">Web3.js</span>
+    <span style="font-size: 1.5em; color: #000000;">Ethers.js</span>
+    <span style="font-size: 1.8em; font-weight: bold; color: #000000;">IPFS</span>
+    <span style="font-size: 1.2em; color: #000000;">Chainlink</span>
+  </div>
 </div>
 
 </div>
-
-</div>
-
 ---
 
 <!-- GitHub Stats with Animation -->
