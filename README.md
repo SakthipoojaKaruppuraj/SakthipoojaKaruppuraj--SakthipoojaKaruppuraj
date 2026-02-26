@@ -1,27 +1,38 @@
-<h1 align="center">Sakthi Pooja Karuppuraj</h1>
+<div align="center">
 
-<p align="center">
-  <b>AI & Blockchain Engineer • DeFi Systems Builder • Smart Contract Architect</b>
+<h1 style="color:#000000;">Sakthi Pooja Karuppuraj</h1>
+
+<p>
+<b style="color:#000000;">
+AI & Blockchain Engineer • DeFi Systems Builder • Smart Contract Architect
+</b>
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/sakthi-pooja-540461380">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=dff929"/>
   </a>
   <a href="mailto:sakthipooja4047@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=dff929"/>
   </a>
   <a href="https://github.com/SakthipoojaKaruppuraj">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=dff929"/>
   </a>
 </p>
+
+</div>
 
 ---
 
+<div style="background-color:#f8ffc9; padding:15px; border-radius:8px;">
+
 ## 👩‍💻 About Me
 
-I build secure and scalable systems at the intersection of **Artificial Intelligence, DeFi, and Blockchain**.  
-My focus is on smart contract architecture, decentralized infrastructure, and intelligent automation that improves efficiency and trust in Web3 ecosystems.
+I build secure and scalable systems at the intersection of **Artificial Intelligence, DeFi, and Blockchain**.
+
+Focused on smart contract architecture, decentralized infrastructure, and intelligent automation that improves trust and efficiency in Web3 ecosystems.
+
+</div>
 
 ---
 
@@ -29,6 +40,7 @@ My focus is on smart contract architecture, decentralized infrastructure, and in
 
 <table align="center">
 <tr>
+
 <td align="center" width="250">
 
 ### 🔐 Smart Contracts  
@@ -46,36 +58,10 @@ AMM Architecture • Routing Logic • Liquidity Systems
 <td align="center" width="250">
 
 ### 🤖 AI Systems  
-Predictive Models • On-chain Data Analysis • Optimization  
-
-</td>
-</tr>
-
-<tr>
-<td height="30"></td>
-</tr>
-
-<tr>
-<td align="center" width="250">
-
-### 🌐 Web3 Development  
-Full Stack dApps • Wallet Integration • RPC Interaction  
+Predictive Models • On-chain Analysis • Optimization  
 
 </td>
 
-<td align="center" width="250">
-
-### 🛡️ Security Design  
-Approval Models • Replay Protection • Risk Reduction  
-
-</td>
-
-<td align="center" width="250">
-
-### ⚙️ System Architecture  
-Modular Design • Deterministic Execution • Scalable Infrastructure  
-
-</td>
 </tr>
 </table>
 
@@ -87,6 +73,7 @@ Modular Design • Deterministic Execution • Scalable Infrastructure
 
 <table>
 <tr>
+
 <td align="center" width="300">
 
 ### 🏗️ MAIMA  
@@ -95,7 +82,7 @@ AI + Blockchain automation platform
 <br>
 
 <a href="https://github.com/SakthipoojaKaruppuraj/MAIMA">
-  <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View_Project-dff929?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </td>
@@ -110,26 +97,26 @@ Scalable Web3 architecture experiment
 <br>
 
 <a href="https://github.com/SakthipoojaKaruppuraj/Fluxy">
-  <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View_Project-dff929?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </td>
+
 </tr>
 
-<tr>
-<td height="40"></td>
-</tr>
+<tr><td height="40"></td></tr>
 
 <tr>
+
 <td align="center" width="300">
 
 ### 🎓 Edu Certs  
-Blockchain-based certificate verification system  
+Blockchain certificate verification system  
 
 <br>
 
 <a href="https://github.com/SakthipoojaKaruppuraj/EDUCert">
-  <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View_Project-dff929?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </td>
@@ -144,10 +131,11 @@ AI-powered liveness & age detection system
 <br>
 
 <a href="https://github.com/SakthipoojaKaruppuraj/Secure_Age_Verification">
-  <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View_Project-dff929?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -157,48 +145,71 @@ AI-powered liveness & age detection system
 
 ## 🛠️ Tech Stack
 
+<table align="center">
+
+<tr>
+
+<td align="center" width="250">
+
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
----
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logoColor=dff929"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logoColor=dff929"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logoColor=dff929"/>
+<img src="https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logoColor=dff929"/>
 
-### ⚙️ Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
-![Foundry](https://img.shields.io/badge/Foundry-E34F26?style=flat-square)
-![Hardhat](https://img.shields.io/badge/Hardhat-FCC72B?style=flat-square)
+</td>
 
----
+<td width="40"></td>
+
+<td align="center" width="250">
+
+### ⚙️ Frameworks
+
+<img src="https://img.shields.io/badge/React-f8ffc9?style=for-the-badge&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Node.js-f8ffc9?style=for-the-badge&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Flask-f8ffc9?style=for-the-badge&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Foundry-f8ffc9?style=for-the-badge&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Hardhat-f8ffc9?style=for-the-badge&logoColor=000000"/>
+
+</td>
+
+<td width="40"></td>
+
+<td align="center" width="250">
 
 ### ⛓️ Blockchain
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum)
-![Base](https://img.shields.io/badge/Base-0052FF?style=flat-square)
-![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink)
+
+<img src="https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logoColor=dff929"/>
+<img src="https://img.shields.io/badge/Base-000000?style=for-the-badge&logoColor=dff929"/>
+<img src="https://img.shields.io/badge/Chainlink-000000?style=for-the-badge&logoColor=dff929"/>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakthipoojaKaruppuraj&show_icons=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SakthipoojaKaruppuraj&show_icons=true&title_color=000000&text_color=000000&icon_color=dff929&bg_color=f8ffc9&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthipoojaKaruppuraj&layout=compact&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthipoojaKaruppuraj&layout=compact&title_color=000000&text_color=000000&bg_color=f8ffc9&hide_border=true"/>
 </p>
 
 ---
 
 ## 🎯 Vision
 
-To build intelligent decentralized infrastructure that enhances digital trust, automation, and security.
+Building intelligent decentralized infrastructure that enhances digital trust, automation, and security.
 
 ---
 
 <p align="center">
-  <b>Engineering the future with AI & Blockchain</b>
+<b style="color:#000000;">Engineering the future with AI & Blockchain</b>
 </p>
