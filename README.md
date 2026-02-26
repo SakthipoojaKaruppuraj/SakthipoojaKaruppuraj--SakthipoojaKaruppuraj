@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Top Container -->
+<!-- HEADER -->
 <div style="background-color:#f8ffc9; padding:40px; border-radius:20px; border:2px solid #000000;">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=500&lines=AI+%26+Blockchain+Engineer;DeFi+Architect;Smart+Contract+Specialist" />
 
-<h1 style="color:#000000; font-size:2.8em; margin:10px 0;">Sakthi Pooja Karuppuraj</h1>
+<h1 style="color:#000000; margin-top:15px;">Sakthi Pooja Karuppuraj</h1>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=SakthipoojaKaruppuraj&color=dff929&style=for-the-badge&label=PROFILE+VIEWS" />
@@ -29,21 +29,23 @@
 
 ---
 
+<!-- ABOUT -->
 <div align="center" style="background-color:#f8ffc9; padding:30px; border-radius:20px; border:2px solid #000000; margin-top:20px;">
 
 <h2 style="color:#000000;">⚡ About Me</h2>
 
-<p style="color:#000000; font-size:1.1em; line-height:1.8; max-width:800px;">
+<p style="color:#000000; max-width:800px; line-height:1.8;">
 🚀 Building the decentralized future at the intersection of AI and Blockchain.<br>
 💡 Specialized in DeFi protocols, smart contract architecture, and predictive AI systems.<br>
-🔗 Contributing to open Web3 infrastructure and secure decentralized design.<br>
-🎯 Currently exploring advanced AMM models and intelligent on-chain agents.
+🔗 Contributing to Web3 infrastructure and secure decentralized design.<br>
+🎯 Currently focused on advanced AMM models and intelligent on-chain agents.
 </p>
 
 </div>
 
 ---
 
+<!-- CORE EXPERTISE -->
 <div align="center" style="background-color:#f8ffc9; padding:30px; border-radius:20px; border:2px solid #000000; margin-top:20px;">
 
 <h2 style="color:#000000;">🧠 Core Expertise</h2>
@@ -77,6 +79,7 @@ Predictive Models • On-chain Analysis • ML Optimization
 
 ---
 
+<!-- FEATURED PROJECTS -->
 <div align="center" style="background-color:#f8ffc9; padding:30px; border-radius:20px; border:2px solid #000000; margin-top:20px;">
 
 <h2 style="color:#000000;">📦 Featured Projects</h2>
@@ -88,8 +91,6 @@ Predictive Models • On-chain Analysis • ML Optimization
 
 ### 🚀 MAIMA  
 AI + Blockchain automation platform  
-
-<br>
 
 <img src="https://img.shields.io/badge/AI-dff929?style=flat-square"/>
 <img src="https://img.shields.io/badge/Blockchain-dff929?style=flat-square"/>
@@ -107,8 +108,6 @@ AI + Blockchain automation platform
 ### ⚡ Fluxy  
 Scalable Web3 architecture  
 
-<br>
-
 <img src="https://img.shields.io/badge/Web3-dff929?style=flat-square"/>
 <img src="https://img.shields.io/badge/Scalable-dff929?style=flat-square"/>
 
@@ -121,12 +120,51 @@ Scalable Web3 architecture
 </td>
 
 </tr>
+
+<tr><td height="40"></td></tr>
+
+<tr>
+
+<td width="320" align="center">
+
+### 🎓 Edu Certs  
+Blockchain certificate verification  
+
+<img src="https://img.shields.io/badge/Education-dff929?style=flat-square"/>
+<img src="https://img.shields.io/badge/Verification-dff929?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/SakthipoojaKaruppuraj/EDUCert">
+<img src="https://img.shields.io/badge/View_Project-dff929?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
+
+</td>
+
+<td width="320" align="center">
+
+### 🔐 Secure Age Verification  
+AI-powered liveness detection  
+
+<img src="https://img.shields.io/badge/Security-dff929?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-dff929?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/SakthipoojaKaruppuraj/Secure_Age_Verification">
+<img src="https://img.shields.io/badge/View_Project-dff929?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
+
+</td>
+
+</tr>
 </table>
 
 </div>
 
 ---
 
+<!-- TECH STACK -->
 <div align="center" style="background-color:#f8ffc9; padding:30px; border-radius:20px; border:2px solid #000000; margin-top:20px;">
 
 <h2 style="color:#000000;">🛠️ Tech Stack</h2>
@@ -155,11 +193,12 @@ Scalable Web3 architecture
 
 ---
 
+<!-- GITHUB ANALYTICS -->
 <div align="center" style="background-color:#f8ffc9; padding:30px; border-radius:20px; border:2px solid #000000; margin-top:20px;">
 
 <h2 style="color:#000000;">📊 GitHub Analytics</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SakthipoojaKaruppuraj&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=f8ffc9&hide_border=true&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SakthipoojaKaruppuraj&show_icons=true&title_color=000000&text_color=000000&icon_color=dff929&bg_color=f8ffc9&hide_border=true"/>
 
 <br><br>
 
