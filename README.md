@@ -53,45 +53,74 @@ and AI-driven systems that improve efficiency and security in Web3 environments.
 
 <h2 style="color:#2563EB;">Selected Projects</h2>
 
-<b style="color:#111827;">MAIMA</b>  
-<span style="color:#6B7280;">AI + Blockchain platform for decentralized automation.</span>
+<div style="background-color:#ffffff;border:1px solid #E5E7EB;border-radius:12px;padding:18px;margin-bottom:18px;box-shadow:0 4px 10px rgba(0,0,0,0.03);">
 
-<br><br>
+<h3 style="margin-top:0; color:#111827;">MAIMA</h3>
+<p style="color:#4B5563; margin-bottom:0;">
+AI + Blockchain platform for decentralized automation and workflow orchestration.
+</p>
 
-<b style="color:#111827;">Fluxy</b>  
-<span style="color:#6B7280;">Scalable Web3 application exploring modern decentralized integrations.</span>
+</div>
 
-<br><br>
+<div style="background-color:#ffffff;border:1px solid #E5E7EB;border-radius:12px;padding:18px;margin-bottom:18px;box-shadow:0 4px 10px rgba(0,0,0,0.03);">
 
-<b style="color:#111827;">Edu Certs</b>  
-<span style="color:#6B7280;">Tamper-proof blockchain certificate verification system.</span>
+<h3 style="margin-top:0; color:#111827;">Fluxy</h3>
+<p style="color:#4B5563; margin-bottom:0;">
+Modern Web3 application exploring scalable decentralized integrations.
+</p>
 
-<br><br>
+</div>
 
-<b style="color:#111827;">Secure Age Verification</b>  
-<span style="color:#6B7280;">AI-powered age prediction and liveness detection platform.</span>
+<div style="background-color:#ffffff;border:1px solid #E5E7EB;border-radius:12px;padding:18px;margin-bottom:18px;box-shadow:0 4px 10px rgba(0,0,0,0.03);">
+
+<h3 style="margin-top:0; color:#111827;">Edu Certs</h3>
+<p style="color:#4B5563; margin-bottom:0;">
+Blockchain-based certificate verification system ensuring tamper-proof credentials.
+</p>
+
+</div>
+
+<div style="background-color:#ffffff;border:1px solid #E5E7EB;border-radius:12px;padding:18px;margin-bottom:18px;box-shadow:0 4px 10px rgba(0,0,0,0.03);">
+
+<h3 style="margin-top:0; color:#111827;">Secure Age Verification</h3>
+<p style="color:#4B5563; margin-bottom:0;">
+AI-powered age prediction and liveness detection platform for secure access control.
+</p>
+
+</div>
 
 ---
 
 <h2 style="color:#2563EB;">Technical Stack</h2>
 
-<b style="color:#111827;">Languages</b>  
+<b style="color:#111827;">Languages</b><br>
 <span style="color:#374151;">Python • JavaScript • TypeScript • Solidity</span>
 
 <br><br>
 
-<b style="color:#111827;">Frameworks & Tools</b>  
+<b style="color:#111827;">Frameworks & Tools</b><br>
 <span style="color:#374151;">React • Node.js • Flask • Foundry • Hardhat</span>
 
 <br><br>
 
-<b style="color:#111827;">Blockchain</b>  
+<b style="color:#111827;">Blockchain Ecosystem</b><br>
 <span style="color:#374151;">Ethereum • Base • Chainlink</span>
 
 <br><br>
 
-<b style="color:#111827;">AI / ML</b>  
+<b style="color:#111827;">AI / ML</b><br>
 <span style="color:#374151;">TensorFlow • OpenCV</span>
+
+---
+
+<h2 style="color:#2563EB;">Currently Exploring</h2>
+
+<ul style="color:#374151;">
+<li>Cross-chain protocol design</li>
+<li>Advanced DeFi routing mechanisms</li>
+<li>Smart contract security analysis</li>
+<li>AI-enhanced on-chain decision systems</li>
+</ul>
 
 ---
 
@@ -108,8 +137,7 @@ and AI-driven systems that improve efficiency and security in Web3 environments.
 <h2 style="color:#2563EB;">Vision</h2>
 
 <p style="color:#374151;">
-To build intelligent decentralized infrastructure that strengthens digital trust, 
-security, and autonomy.
+To build intelligent decentralized infrastructure that strengthens digital trust, security, and autonomy.
 </p>
 
 ---
