@@ -84,7 +84,7 @@ Blockchain certificate verification system
 
 <br>
 
-<a href="https://github.com/SakthipoojaKaruppuraj/Edu-Certs" target="_blank">
+<a href="https://github.com/SakthipoojaKaruppuraj/EDUCert" target="_blank">
   <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -99,7 +99,7 @@ AI-based liveness & age detection
 
 <br>
 
-<a href="https://github.com/SakthipoojaKaruppuraj/Secure-Age-Verification" target="_blank">
+<a href="https://github.com/SakthipoojaKaruppuraj/Secure_Age_Verification" target="_blank">
   <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
