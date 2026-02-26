@@ -20,20 +20,64 @@
 
 ## 👩‍💻 About Me
 
-I build secure and scalable systems at the intersection of **AI, DeFi, and Blockchain**.  
-Focused on smart contract architecture, decentralized infrastructure, and intelligent automation.
+I build secure and scalable systems at the intersection of **Artificial Intelligence, DeFi, and Blockchain**.  
+My focus is on smart contract architecture, decentralized infrastructure, and intelligent automation that improves efficiency and trust in Web3 ecosystems.
 
 ---
 
 ## 🧠 Core Expertise
 
-<p>
-<img src="https://img.shields.io/badge/Smart_Contracts-Solidity-363636?style=flat-square"/>
-<img src="https://img.shields.io/badge/DeFi-Protocol_Engineering-3B82F6?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI-System_Design-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Web3-dApp_Development-10B981?style=flat-square"/>
-<img src="https://img.shields.io/badge/Security-Gas_Optimization-E11D48?style=flat-square"/>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="250">
+
+### 🔐 Smart Contracts  
+Solidity • Protocol Design • Gas Optimization  
+
+</td>
+
+<td align="center" width="250">
+
+### 💰 DeFi Engineering  
+AMM Architecture • Routing Logic • Liquidity Systems  
+
+</td>
+
+<td align="center" width="250">
+
+### 🤖 AI Systems  
+Predictive Models • On-chain Data Analysis • Optimization  
+
+</td>
+</tr>
+
+<tr>
+<td height="30"></td>
+</tr>
+
+<tr>
+<td align="center" width="250">
+
+### 🌐 Web3 Development  
+Full Stack dApps • Wallet Integration • RPC Interaction  
+
+</td>
+
+<td align="center" width="250">
+
+### 🛡️ Security Design  
+Approval Models • Replay Protection • Risk Reduction  
+
+</td>
+
+<td align="center" width="250">
+
+### ⚙️ System Architecture  
+Modular Design • Deterministic Execution • Scalable Infrastructure  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -43,29 +87,29 @@ Focused on smart contract architecture, decentralized infrastructure, and intell
 
 <table>
 <tr>
-<td align="center" width="300px">
+<td align="center" width="300">
 
 ### 🏗️ MAIMA  
 AI + Blockchain automation platform  
 
 <br>
 
-<a href="https://github.com/SakthipoojaKaruppuraj/MAIMA" target="_blank">
+<a href="https://github.com/SakthipoojaKaruppuraj/MAIMA">
   <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="40"></td> <!-- spacing -->
+<td width="40"></td>
 
-<td align="center" width="300px">
+<td align="center" width="300">
 
 ### ⚡ Fluxy  
 Scalable Web3 architecture experiment  
 
 <br>
 
-<a href="https://github.com/SakthipoojaKaruppuraj/Fluxy" target="_blank">
+<a href="https://github.com/SakthipoojaKaruppuraj/Fluxy">
   <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -77,14 +121,14 @@ Scalable Web3 architecture experiment
 </tr>
 
 <tr>
-<td align="center" width="300px">
+<td align="center" width="300">
 
 ### 🎓 Edu Certs  
-Blockchain certificate verification system  
+Blockchain-based certificate verification system  
 
 <br>
 
-<a href="https://github.com/SakthipoojaKaruppuraj/EDUCert" target="_blank">
+<a href="https://github.com/SakthipoojaKaruppuraj/EDUCert">
   <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -92,14 +136,14 @@ Blockchain certificate verification system
 
 <td width="40"></td>
 
-<td align="center" width="300px">
+<td align="center" width="300">
 
 ### 🔐 Secure Age Verification  
-AI-based liveness & age detection  
+AI-powered liveness & age detection system  
 
 <br>
 
-<a href="https://github.com/SakthipoojaKaruppuraj/Secure_Age_Verification" target="_blank">
+<a href="https://github.com/SakthipoojaKaruppuraj/Secure_Age_Verification">
   <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -108,23 +152,29 @@ AI-based liveness & age detection
 </table>
 
 </p>
+
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
-### Frameworks & Tools
+---
+
+### ⚙️ Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
 ![Foundry](https://img.shields.io/badge/Foundry-E34F26?style=flat-square)
+![Hardhat](https://img.shields.io/badge/Hardhat-FCC72B?style=flat-square)
 
-### Blockchain
+---
+
+### ⛓️ Blockchain
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum)
 ![Base](https://img.shields.io/badge/Base-0052FF?style=flat-square)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink)
@@ -134,18 +184,18 @@ AI-based liveness & age detection
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakthipoojaKaruppuraj&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SakthipoojaKaruppuraj&show_icons=true&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthipoojaKaruppuraj&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthipoojaKaruppuraj&layout=compact&hide_border=true"/>
 </p>
 
 ---
 
 ## 🎯 Vision
 
-Building intelligent decentralized infrastructure that strengthens digital trust and security.
+To build intelligent decentralized infrastructure that enhances digital trust, automation, and security.
 
 ---
 
