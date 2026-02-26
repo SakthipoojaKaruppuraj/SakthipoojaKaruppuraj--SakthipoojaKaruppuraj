@@ -193,23 +193,81 @@ AI-powered liveness detection
 
 ---
 
-<!-- GITHUB ANALYTICS -->
-<div align="center" style="background-color:#f8ffc9; padding:30px; border-radius:20px; border:2px solid #000000; margin-top:20px;">
+<!-- GitHub Stats with Animation -->
+<div align="center" style="background: linear-gradient(135deg, #f8ffc9 0%, #f0f7b0 100%); padding: 25px; border-radius: 20px; border: 2px solid #00000020; margin-top: 20px;">
 
-<h2 style="color:#000000;">📊 GitHub Analytics</h2>
+<h2 style="color:#000000; font-size: 2em;">📊 GitHub Analytics</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SakthipoojaKaruppuraj&show_icons=true&title_color=000000&text_color=000000&icon_color=dff929&bg_color=f8ffc9&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SakthipoojaKaruppuraj&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=f8ffc9&hide_border=true&include_all_commits=true&count_private=true"/>
+</p>
 
-<br><br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakthipoojaKaruppuraj&background=f8ffc9&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthipoojaKaruppuraj&layout=compact&title_color=000000&text_color=000000&bg_color=f8ffc9&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthipoojaKaruppuraj&layout=compact&title_color=000000&text_color=000000&bg_color=f8ffc9&hide_border=true&langs_count=8"/>
+</p>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakthipoojaKaruppuraj&bg_color=f8ffc9&color=000000&line=000000&point=000000&area=true&area_color=dff929&hide_border=true"/>
+</p>
 
 </div>
 
 ---
 
-<div align="center" style="margin-top:25px;">
+<!-- Latest Blog Posts / Activity -->
+<div align="center" style="background: linear-gradient(135deg, #f8ffc9 0%, #f0f7b0 100%); padding: 25px; border-radius: 20px; border: 2px solid #00000020; margin-top: 20px;">
 
-<b style="color:#000000;">⚡ Engineering the decentralized future with AI & Blockchain</b>
+<h2 style="color:#000000; font-size: 2em;">📰 Latest Updates</h2>
 
+<div align="left" style="margin-left: 20px;">
+
+<p>🔥 <strong>Working on:</strong> Advanced AMM with AI-powered routing</p>
+<p>📚 <strong>Learning:</strong> Zero-Knowledge Proofs & Layer 2 Scaling</p>
+<p>🎯 <strong>Goal for 2024:</strong> Launch production DeFi protocol</p>
+<p>💬 <strong>Ask me about:</strong> Smart contract security, DeFi strategies, AI in blockchain</p>
+
+</div>
+
+</div>
+
+---
+
+<!-- Support/Contact Section -->
+<div align="center" style="margin-top: 20px; padding: 20px;">
+
+<h3 style="color:#000000;">🤝 Let's Build Something Amazing Together</h3>
+
+<p>
+  <a href="https://www.buymeacoffee.com/yourusername">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-dff929?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000"/>
+  </a>
+  <a href="https://discord.gg/yourdiscord">
+    <img src="https://img.shields.io/badge/Discord-dff929?style=for-the-badge&logo=discord&logoColor=000000"/>
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-dff929?style=for-the-badge&logo=twitter&logoColor=000000"/>
+  </a>
+</p>
+
+<p style="color:#000000;">
+  ⚡ <i>"Code is poetry, blockchain is the canvas"</i>
+</p>
+
+<p style="color:#000000;">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/> 
+  <strong>Always open to collaboration and innovative ideas!</strong>
+</p>
+
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center" style="margin-top: 10px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=dff929&height=100&section=footer"/>
 </div>
