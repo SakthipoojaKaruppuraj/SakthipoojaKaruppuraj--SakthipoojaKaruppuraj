@@ -39,54 +39,75 @@ Focused on smart contract architecture, decentralized infrastructure, and intell
 
 ## 📦 Featured Projects
 
+<p align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="300px">
 
 ### 🏗️ MAIMA  
 AI + Blockchain automation platform  
 
-<a href="#">
-<img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge"/>
+<br>
+
+<a href="https://github.com/SakthipoojaKaruppuraj/MAIMA" target="_blank">
+  <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
-<td width="50%">
+
+<td width="40"></td> <!-- spacing -->
+
+<td align="center" width="300px">
 
 ### ⚡ Fluxy  
 Scalable Web3 architecture experiment  
 
-<a href="#">
-<img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge"/>
+<br>
+
+<a href="https://github.com/SakthipoojaKaruppuraj/Fluxy" target="_blank">
+  <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td height="40"></td>
+</tr>
+
+<tr>
+<td align="center" width="300px">
 
 ### 🎓 Edu Certs  
 Blockchain certificate verification system  
 
-<a href="#">
-<img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge"/>
+<br>
+
+<a href="https://github.com/SakthipoojaKaruppuraj/Edu-Certs" target="_blank">
+  <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
-<td width="50%">
+
+<td width="40"></td>
+
+<td align="center" width="300px">
 
 ### 🔐 Secure Age Verification  
 AI-based liveness & age detection  
 
-<a href="#">
-<img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge"/>
+<br>
+
+<a href="https://github.com/SakthipoojaKaruppuraj/Secure-Age-Verification" target="_blank">
+  <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 </tr>
 </table>
 
+</p>
 ---
 
 ## 🛠️ Tech Stack
